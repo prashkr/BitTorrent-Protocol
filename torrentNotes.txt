@@ -1,0 +1,13 @@
+Notes:
+1) Right now it won't work if the torrent client is restarted because we are using uploadInfo[filename][s] and here socket object i.e s will be lost once the client is closed. It would be better to have s.getpeername() as the index. And we can have each element of it as a tuple i.e (bitvector, socket). So we can update socket when the client connects again to that peer.
+
+2)
+
+
+
+
+
+
+To Do:
+1) bitVector on disk.
+2) updating bitVector as pieces gets downloaded
