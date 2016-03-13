@@ -915,9 +915,3 @@ def GUI():
 
 if __name__ == '__main__':
     GUI()
-# try:
-#         start_new_thread(GUI, ())
-#     except:
-#         print "Error: unable to start thread"
-# while 1:
-#     pass
