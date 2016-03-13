@@ -1,4 +1,0 @@
-trackers-127.0.0.1:20001
-name-loveStory.mkv
-length-100
-pieces-10
