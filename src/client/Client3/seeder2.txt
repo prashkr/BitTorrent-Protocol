@@ -1,0 +1,32 @@
+Entering recvMessage
+starting up on 127.0.0.1 port 10007
+inputs is : <type 'list'>
+outputs is : <type 'list'>
+Seeder in handshaking
+
+waiting for the next event using select
+In Readable
+new connection from ('127.0.0.1', 43883)
+
+waiting for the next event using select
+In Readable
+In processRecvdMsg
+lakshya.mkv
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+Hello
+In Handshake
+lakshya.mkv
+after Handshake
+./bitvector/lakshya.vec
+printing 0 vector
+In writable
+
+waiting for the next event using select
+In writable
+output queue for ('127.0.0.1', 43883) is empty
+
+waiting for the next event using select
+In Readable
+closing ('127.0.0.1', 43883) after reading no data
+
+waiting for the next event using select
