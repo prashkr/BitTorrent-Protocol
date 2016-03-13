@@ -1,6 +1,0 @@
-Peer List Received
-Entering recvMessage
-starting up on 127.0.0.1 port 10002
-0
-
-waiting for the next event using select
