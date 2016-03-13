@@ -1,5 +1,6 @@
 from wx import wx
 from wx.lib.pubsub import Publisher
+
 import select
 import socket
 import sys
